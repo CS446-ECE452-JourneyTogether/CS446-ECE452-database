@@ -1,0 +1,1 @@
+CREATE USER uwaterloo IDENTIFIED BY 'a@XMN=FF3DB';
